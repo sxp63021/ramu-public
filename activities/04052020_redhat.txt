@@ -1,0 +1,28 @@
+
+Red Hat is providing free courses for 30 days. Learn from Home.
+
+Complimentary Technical Overviews:
+
+1. Fundamentals of Red Hat Enterprise Linux (RH066x): https://bit.ly/39HNAoc
+
+2. RH Enterprise Linux Technical Overview (RH024): https://lnkd.in/easaWfy
+
+3. Virtualization & Infrastructure Migration Technical Overview (RH018): https://lnkd.in/eT8DgqX
+
+4. RH Satellite Technical Overview (RH053): https://lnkd.in/ePyqqUy
+
+5. RH OpenStack Technical Overview (CL010): https://lnkd.in/eduzRxE
+
+6. RH Agile integration Technical Overview (DO040): https://red.ht/2X5SE3b
+
+7. Ansible Essentials (DO007): https://lnkd.in/e3wgUmw
+
+8. Fundamentals of Containers, Kubernetes, and Red Hat OpenShift( DO081x): https://bit.ly/3aC09To
+
+9. Deploying Containerized Applications Tech Overview (DO080): https://lnkd.in/eEAnK4w
+
+10. Developing Cloud-Native Applications with Microservices Architectures (DO092): https://red.ht/2Ra0h4N
+
+11. Fundamentals of Java EE Development (JB083x ): https://bit.ly/2wcaIOb
+
+Make most of it and leverage your knowledge with Red Hat products.
